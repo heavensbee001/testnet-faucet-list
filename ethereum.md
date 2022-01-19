@@ -23,4 +23,4 @@ Get ETH on various testnets at once
 - https://faucets.chain.link/kovan
 
 ### Görli
--https://faucets.chain.link/goerli
+- https://faucets.chain.link/goerli
