@@ -18,6 +18,7 @@ Get ETH on various testnets at once
 - https://faucet.rinkeby.io/
 - https://faucets.chain.link/rinkeby
 - https://buildspace-faucet.vercel.app/
+- https://www.rinkebyfaucet.com/
 
 ### Kovan
 - https://faucets.chain.link/kovan
